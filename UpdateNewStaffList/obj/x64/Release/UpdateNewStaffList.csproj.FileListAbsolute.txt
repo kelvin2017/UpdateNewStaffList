@@ -1,0 +1,7 @@
+C:\Project\UpdateNewStaffList\UpdateNewStaffList\bin\x64\Release\UpdateNewStaffList.exe.config
+C:\Project\UpdateNewStaffList\UpdateNewStaffList\obj\x64\Release\UpdateNewStaffList.csprojResolveAssemblyReference.cache
+C:\Project\UpdateNewStaffList\UpdateNewStaffList\obj\x64\Release\UpdateNewStaffList.Form1.resources
+C:\Project\UpdateNewStaffList\UpdateNewStaffList\obj\x64\Release\UpdateNewStaffList.Properties.Resources.resources
+C:\Project\UpdateNewStaffList\UpdateNewStaffList\obj\x64\Release\UpdateNewStaffList.csproj.GenerateResource.Cache
+C:\Project\UpdateNewStaffList\UpdateNewStaffList\obj\x64\Release\UpdateNewStaffList.exe
+C:\Project\UpdateNewStaffList\UpdateNewStaffList\obj\x64\Release\UpdateNewStaffList.pdb
