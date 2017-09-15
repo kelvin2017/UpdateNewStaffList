@@ -1,6 +1,0 @@
-C:\Project\UpdateNewStaffList\UpdateNewStaffList\bin\Release\UpdateNewStaffList.exe.config
-C:\Project\UpdateNewStaffList\UpdateNewStaffList\obj\Release\UpdateNewStaffList.Form1.resources
-C:\Project\UpdateNewStaffList\UpdateNewStaffList\obj\Release\UpdateNewStaffList.Properties.Resources.resources
-C:\Project\UpdateNewStaffList\UpdateNewStaffList\obj\Release\UpdateNewStaffList.csproj.GenerateResource.Cache
-C:\Project\UpdateNewStaffList\UpdateNewStaffList\obj\Release\UpdateNewStaffList.exe
-C:\Project\UpdateNewStaffList\UpdateNewStaffList\obj\Release\UpdateNewStaffList.pdb
